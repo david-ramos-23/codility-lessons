@@ -1,16 +1,13 @@
 # Codility
 Javascript solutions for Codility Lessons.
 
-## 📦 Getting Started
+### 📦 Getting Started
 
- ``` 
- npm install 
- ```
-->  Install require dependencies to run the application
+* `npm install`->  Install require dependencies to run the application
 
 Each challenge is imported in `index.js`.
 
 
-## 🛠️ Tests
+### 🛠️ Tests
 
 * `npm test`: runs all the tests
