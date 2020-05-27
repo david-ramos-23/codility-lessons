@@ -1,0 +1,32 @@
+{
+  "name": "codility-lessons",
+  "version": "1.0.0",
+  "description": "My own solutions to codility lessons",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "lint": "standard --fix --env jest",
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-ramos-23/codility-lessons.git"
+  },
+  "keywords": [
+    "codility"
+  ],
+  "author": "David Ramos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/david-ramos-23/codility-lessons/issues"
+  },
+  "homepage": "https://github.com/david-ramos-23/codility-lessons#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "standard": "^14.3.4"
+  }
+}
