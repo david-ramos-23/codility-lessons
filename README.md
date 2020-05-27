@@ -1,4 +1,4 @@
-# Codility
+# Codility Lessons
 Javascript solutions for Codility Lessons.
 
 ### 📦 Getting Started
