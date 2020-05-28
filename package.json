@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon",
-    "lint": "standard --fix --env jest",
-    "test": "jest",
+    "test": "standard --fix --env jest && jest",
     "test:watch": "jest --watchAll"
   },
   "repository": {
