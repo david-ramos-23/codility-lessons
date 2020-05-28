@@ -2,7 +2,7 @@ const tapeEquilibrium = A => {
   let sumLeft = 0
   let sumRight = A.reduce((acc, i) => acc + i)
 
-  let minDiff = 1
+  let minDiff = Number.POSITIVE_INFINITY
 
   for (let p = 0; p < A.length; p++) {
     sumLeft += A[p]
