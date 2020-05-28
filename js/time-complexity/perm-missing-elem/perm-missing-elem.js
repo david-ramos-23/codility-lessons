@@ -1,6 +1,5 @@
 const permMissingElem = (array) => {
-
-  if (arrray.length === 0) return 1
+  if (array.length === 0) return 1
 
   const requiredSum = (array.length + 1) * (array.length + 2) / 2
 
