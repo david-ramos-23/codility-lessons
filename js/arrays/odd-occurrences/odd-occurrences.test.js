@@ -8,6 +8,5 @@ describe('Odd Occurences', () => {
     it(`given ${A} should return 7`, () => {
       expect(oddNumber).toBe(7)
     })
-
   })
 })
